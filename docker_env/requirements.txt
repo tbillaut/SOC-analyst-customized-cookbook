@@ -1,0 +1,11 @@
+attackcti
+plotly
+requests
+pyyaml
+fpdf
+Pillow
+matplotlib
+seaborn
+pandas
+openhunt
+kaleido
