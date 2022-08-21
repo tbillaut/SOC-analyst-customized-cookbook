@@ -67,3 +67,5 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests
 
 Feel free to contact me:  
 Thomas Billaut / <thomas.billaut@protonmail.com>  
+  
+See you soon :)  
