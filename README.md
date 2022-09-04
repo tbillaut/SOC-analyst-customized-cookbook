@@ -45,7 +45,7 @@ Examples of cookbook can be found here :
 * etc...  
   
 Reports can sometimes be boring to read. A quick presentation made upon the cookbook materials can be an idea to circumvent this. An exemple can be found here :  
-* [Customized SOC analyst cookbook for manufacturing sector](https://github.com/tbillaut/SOC-analyst-customized-cookbook/blob/main/examples/Introducing_SOC_cookbook_for_manufacturing.pdf)  
+* [Customized SOC analyst cookbook for manufacturing sector](https://github.com/tbillaut/SOC-analyst-customized-cookbook/blob/main/examples/Presentation_SOC_cookbook_for_manufacturing.pdf)  
   
 ![Key indicators on telecom sector](key_indicators_on_telco.png)  
   
