@@ -7,7 +7,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-CMD [ "python"]
-
-ENTRYPOINT ["./Generate_report.py" ]
-
+ENTRYPOINT ["python", "./Generate_report.py" ]
