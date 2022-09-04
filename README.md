@@ -27,9 +27,9 @@ Generate the image :
 	```  
 Run it interactively :  
 	```docker run -it --name MyCurrentWork --entrypoint /bin/bash -v <Your_output_destination_directory>:/usr/src/app/out python/soc_cookbook:latest```    
-	```python Generate_report_v9.py -h #for help```   
-	```or python Generate_report_v8.py -ts telecom #for telco generation report```  
-	```or python Generate_report_v8.py -ts energy #for energy generation report```  
+	```python Generate_report.py -h #for help```   
+	```or python Generate_report.py -ts telecom #for telco generation report```  
+	```or python Generate_report.py -ts energy #for energy generation report```  
 or run it :  
 	``` docker run -it --name MyCurrentWork -v <Your_output_destination_directory>:/usr/src/app/out python/soc_cookbook:latest -ts telecom
 	```  
